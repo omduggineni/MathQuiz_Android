@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "315840118685",
+    "firebase_url": "https://mathquiz-28016.firebaseio.com",
+    "project_id": "mathquiz-28016",
+    "storage_bucket": "mathquiz-28016.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315840118685:android:3c58c09a5ac95846",
+        "android_client_info": {
+          "package_name": "com.example.omduggineni.operationsquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315840118685-o78nd7jc9ljrs7d9avsckelc2e7q4ein.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-SXYarobN2rJyjUtXjOril9NJ78LIuWw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

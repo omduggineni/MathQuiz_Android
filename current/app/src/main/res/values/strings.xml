@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MathQuiz!</string>
+
+    <string name="dummy_button">Dummy Button</string>
+
+    <string name="title_activity_addition">Addition</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_subtraction">Subtraction</string>
+
+    <string name="title_activity_multiplication">Multiplication</string>
+
+    <string name="title_activity_subtraction_positive">SubtractionPositive</string>
+
+    <string name="welcome_back">
+        <![CDATA[
+            Welcome to MathQuiz!
+            Choose an Operation
+        ]]>
+    </string>
+
+    <string name="activity_choose_operation_button_addition">Addition</string>
+    <string name="app_title">MathQuiz!</string>
+    <string name="app_enter_button">Enter</string>
+</resources>
