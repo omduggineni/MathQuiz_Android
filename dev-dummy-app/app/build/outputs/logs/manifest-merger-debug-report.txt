@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/1f41389fa1c60a0d6480b0993201ec20/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/48d5179a3c63524cc1b97def013c5a62/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/8e6a95af7df18390c41460b900be1b68/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/0b5225ab13261a774969ac230598ca80/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/f4f04d5b574d1d26fda715a6bf11ac46/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/c560213fbe0cd6aeb94ba504fb41e1eb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/9a6d28454cc8780d8ff08f968c63bb45/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/e0882a5c18ffe5e7f79eeeb6402ffff5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/66cc5418d38c4beffba54d304dc44a12/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/417081775a4546427d50b6975576a95d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/af0e41be89f332adf9b6e0459f22f63b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/0cbe03e52945e41f734566bea0f776c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/c294997b697e592ca511054019305104/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/54df5d30299253b3801d1a25c5463813/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/a233dcc16d977ab241abf7ade1e6c624/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/8fb87b9401cac07649399e3718ff0c29/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/fadbf30598c5921d8a2eb4c488c91c8e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c79a06c5435a532ed588770a0a2d6525/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/efc25912ec4bcd86d9873eab153dfb0c/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/effc50ad1aebfd0613397bedeaeae92e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/3636b9462fe2c94de0fa3f3e27594bc5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/142f85edf9196d0c5537886910a9d720/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/dad55dba03a3dc0f6a8ecf2bf46a13e4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/26caa927c4cb44ba18c1c8bc95dcf951/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/77618e6bc8daccd6090c45689edc52a3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/6864ffa07f29a9c53a953472589159f3/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml:3:5-63
+		INJECTED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml
+		ADDED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml
+		ADDED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/48d5179a3c63524cc1b97def013c5a62/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/48d5179a3c63524cc1b97def013c5a62/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/8fb87b9401cac07649399e3718ff0c29/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/8fb87b9401cac07649399e3718ff0c29/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/efc25912ec4bcd86d9873eab153dfb0c/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/efc25912ec4bcd86d9873eab153dfb0c/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/8fb87b9401cac07649399e3718ff0c29/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.omtatva.mathquizdeveloperpermissions.DevPermissionsGranted
+ADDED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml:12:19-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml
+INJECTED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/1f41389fa1c60a0d6480b0993201ec20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/1f41389fa1c60a0d6480b0993201ec20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/48d5179a3c63524cc1b97def013c5a62/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/48d5179a3c63524cc1b97def013c5a62/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/8e6a95af7df18390c41460b900be1b68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/8e6a95af7df18390c41460b900be1b68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/0b5225ab13261a774969ac230598ca80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/0b5225ab13261a774969ac230598ca80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/f4f04d5b574d1d26fda715a6bf11ac46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/f4f04d5b574d1d26fda715a6bf11ac46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/c560213fbe0cd6aeb94ba504fb41e1eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/c560213fbe0cd6aeb94ba504fb41e1eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/9a6d28454cc8780d8ff08f968c63bb45/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/9a6d28454cc8780d8ff08f968c63bb45/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/e0882a5c18ffe5e7f79eeeb6402ffff5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/e0882a5c18ffe5e7f79eeeb6402ffff5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/66cc5418d38c4beffba54d304dc44a12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/66cc5418d38c4beffba54d304dc44a12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/417081775a4546427d50b6975576a95d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/417081775a4546427d50b6975576a95d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/af0e41be89f332adf9b6e0459f22f63b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/af0e41be89f332adf9b6e0459f22f63b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/0cbe03e52945e41f734566bea0f776c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/0cbe03e52945e41f734566bea0f776c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/c294997b697e592ca511054019305104/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/c294997b697e592ca511054019305104/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/54df5d30299253b3801d1a25c5463813/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/54df5d30299253b3801d1a25c5463813/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/a233dcc16d977ab241abf7ade1e6c624/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/a233dcc16d977ab241abf7ade1e6c624/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/8fb87b9401cac07649399e3718ff0c29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/8fb87b9401cac07649399e3718ff0c29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/fadbf30598c5921d8a2eb4c488c91c8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/fadbf30598c5921d8a2eb4c488c91c8e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c79a06c5435a532ed588770a0a2d6525/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c79a06c5435a532ed588770a0a2d6525/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/efc25912ec4bcd86d9873eab153dfb0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/efc25912ec4bcd86d9873eab153dfb0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/effc50ad1aebfd0613397bedeaeae92e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/effc50ad1aebfd0613397bedeaeae92e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/3636b9462fe2c94de0fa3f3e27594bc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/3636b9462fe2c94de0fa3f3e27594bc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/142f85edf9196d0c5537886910a9d720/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/142f85edf9196d0c5537886910a9d720/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/dad55dba03a3dc0f6a8ecf2bf46a13e4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/dad55dba03a3dc0f6a8ecf2bf46a13e4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/26caa927c4cb44ba18c1c8bc95dcf951/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/26caa927c4cb44ba18c1c8bc95dcf951/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/77618e6bc8daccd6090c45689edc52a3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/77618e6bc8daccd6090c45689edc52a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/6864ffa07f29a9c53a953472589159f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/omtatva/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/6864ffa07f29a9c53a953472589159f3/AndroidManifest.xml:20:5-44
+INJECTED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml
+INJECTED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml
+		ADDED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml
+		ADDED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/omtatva/Google Drive (omduggineni@gmail.com)/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/src/main/AndroidManifest.xml

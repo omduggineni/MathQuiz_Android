@@ -1,0 +1,4 @@
+#Fri Jun 22 10:02:49 EDT 2018
+base.0=/Users/omtatva/Desktop/Google Drive/Activities/AndroidStudioProjects/MathQuizDeveloperPermissions/app/build/intermediates/transforms/dexMerger/debug/9
+path.0=classes.dex
+renamed.0=classes.dex
